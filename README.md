@@ -30,6 +30,37 @@ SCP‑181 拥有被动概率扭曲效果：处境安全时获得幸运加成。
 - Exiled 建议版本：***v9.14.2***
 - 建议游戏版本：***SCP:SL 14.2.7***
 
+# SCP‑181 Exiled Plugin
 
+Developed for **Exiled v9.14.2**, implements the SCP‑181 "Lucky Guy" custom role.
 
+## 📋 Plugin Introduction
 
+Adds the custom SCP‑181 role to SCP: Secret Laboratory.
+SCP‑181 has a passive probability‑distortion effect: gain lucky bonuses while in safe conditions.
+
+## ✨ Features
+
+### 🔮 Luck Mode
+
+- Evades some fatal damage
+- Chance to pick up high‑quality items
+- Random events tend to work in the user’s favor
+
+## ⚙️ Config Options
+
+> No config file will be generated inside the `EXILED/configs` folder after plugin load.
+
+## 📦 Installation
+
+2. Place `SCP181.dll` into your server's `EXILED/plugins` folder.
+3. Start the server. **No config file will be auto‑generated.**
+
+## ℹ️ Version Info
+
+- Recommended Exiled Version: **v9.14.2**
+- Suggested Game Version: SCP:SL 14.2.7
+
+警告：此插件很可能不受支持
+
+WARNING: This plugin is likely unsupported.
